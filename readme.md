@@ -1,6 +1,7 @@
 # vuex-solidification
 
 Persist and rehydrate your [Vuex](http://vuex.vuejs.org/) state between page reloads.
+[中文文档](https://juejin.im/post/5cb093ad5188250df17d5108)
 
 <hr />
 
