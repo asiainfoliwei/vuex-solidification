@@ -1,0 +1,14 @@
+{
+  "name": "vuex-solidification",
+  "version": "0.2.1",
+  "description": "Persist and rehydrate your Vuex state between page reloads.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "liwei <1106725963@qq.com>",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
+}
